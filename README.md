@@ -1,7 +1,7 @@
--
-# Week 5 Task
 
-To push all week 3 to week 5 assignment to a GitHub repository.
+# Hey!
+
+I'm a full-stack web developer with knowledge of HTML|CSS|JavaScript and Python.
 
 
 ## 🚀 About Me
